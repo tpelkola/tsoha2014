@@ -1,0 +1,1 @@
+DROP TABLE asiakas, lisäketilaus, lisäke, tilaus, tilauslista, tuote;
