@@ -1,5 +1,5 @@
 <?php
-require_once "libs/tuote.php";
+require_once "libs/tuote-vanha.php";
 require_once "libs/tietokantayhteys.php";
 $lista = Tuote::etsiKaikkiTuotteet();
 ?>
